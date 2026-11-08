@@ -1,3 +1,7 @@
+![NewTab-Override banner: a dark walnut door with an ornate brass keyhole plate at its center right, a slender filigree key turning in the lock and warm light flaring through the keyhole as the door begins to open](banner.png)
+
+<p align="center"><img src="logo.png" alt="NewTab-Override logo: a round ornate brass keyhole plate on dark walnut, scrollwork and verdigris around a keyhole glowing with warm light from the room beyond" width="200"></p>
+
 # TabOverride - [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/TheDanniCraft/NewTab-Override/issues) 
 Some browsers like OperaGX block overwriting the default "New Tab" page. With a little trick, you can bypass this restriction. This repo contains instructions that make it relatively easy to implement it in your own extension.
 
